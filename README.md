@@ -1,7 +1,9 @@
 # 👨🏻‍💻 Jorge Farage
 
 **`Desenvolvedor Backend`**
+---
 
+### Sobre mim
 🎓 Graduando em Sistemas de Informação na Universidade Federal Fluminense (UFF).
 
 🚀 Entusiasta de tecnologia desde a infância e focado em transformá-la em carreira.
