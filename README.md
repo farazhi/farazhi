@@ -1,5 +1,4 @@
 # 👨🏻‍💻 Jorge Farage
-
 `Desenvolvedor Backend`
 ---
 
