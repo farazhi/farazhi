@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Jorge Farage
 
-**`Software Engineer`**
+**`Desenvolvedor Backend`**
 
 🎓 Graduando em Sistemas de Informação na Universidade Federal Fluminense (UFF).
 
