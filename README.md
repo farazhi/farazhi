@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Jorge Farage
 
-**`Estudante de Sistemas de Informação`**
+**`Desenvolvedor Backend`**
 
 🎓 Graduando em Sistemas de Informação na Universidade Federal Fluminense (UFF).
 
