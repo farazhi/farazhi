@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Jorge Farage
 
-**`Estudante de Sistemas de Informação`**
+**`Software Engineer`**
 
 🎓 Graduando em Sistemas de Informação na Universidade Federal Fluminense (UFF).
 
