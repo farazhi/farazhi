@@ -17,7 +17,7 @@
 
 ---
 
-### 🤝 Contato e Links
+### 📎 Contato e Links
 
 <a href="https://www.linkedin.com/in/jorge-farage-52a4a6382/" target="_blank">
   <img height="28" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" />
